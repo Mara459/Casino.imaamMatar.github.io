@@ -14,7 +14,7 @@
     color: crimson;
   }
   #video{
-    width: 50%; 
+    width: 40%; 
     float:right;
     margin-bottom: 90px;
   }
@@ -38,7 +38,7 @@
     font-size:58px;
   }
   #btn{
-    width: 40%;
+    width: 50%;
     margin-left: 30%;
   }
   #btn:hover{
